@@ -4,3 +4,6 @@ Check the Dockerfile to confirm your `MONGO_USER`, `MONGO_PASS` and `MONGO_URL` 
 
 After that run `docker build -t palindrome-bff . && docker run -d --network=host palindrome-bff`
 
+### Database
+
+https://github.com/walmartdigital/products-db
